@@ -19,7 +19,8 @@ for i in range(len(ton)):
 print(trek)
 trek.sort()
 print(trek)
-print(trek[len(trek)-1])
+max_el = trek[len(trek)-1]
+print(max_el)
 
 
 
